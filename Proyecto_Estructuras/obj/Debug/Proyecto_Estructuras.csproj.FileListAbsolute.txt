@@ -1,0 +1,323 @@
+C:\Users\susan\source\repos\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\Proyecto_Estructuras.exe.config
+C:\Users\susan\source\repos\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\Proyecto_Estructuras.exe
+C:\Users\susan\source\repos\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\Proyecto_Estructuras.pdb
+C:\Users\susan\source\repos\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.csproj.AssemblyReference.cache
+C:\Users\susan\source\repos\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.Form1.resources
+C:\Users\susan\source\repos\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.Properties.Resources.resources
+C:\Users\susan\source\repos\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.csproj.GenerateResource.cache
+C:\Users\susan\source\repos\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.csproj.CoreCompileInputs.cache
+C:\Users\susan\source\repos\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.exe
+C:\Users\susan\source\repos\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.pdb
+C:\Users\susan\source\repos\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.ImportarTxtControl.resources
+C:\Users\susan\source\repos\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.EditarContrasena.resources
+C:\Users\susan\source\repos\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.AgregarContrasena.resources
+C:\Users\susan\source\repos\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.FormMenu.resources
+C:\Users\susan\source\repos\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.Form2.resources
+C:\Users\susan\source\repos\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.Form3.resources
+C:\Users\susan\source\repos\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.Preguntas.resources
+C:\Users\susan\source\repos\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.DatosAdicionales.resources
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\Proyecto_Estructuras.exe.config
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\Proyecto_Estructuras.exe
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\Proyecto_Estructuras.pdb
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.csproj.AssemblyReference.cache
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.DatosAdicionales.resources
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.Form1.resources
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.Form2.resources
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.Form3.resources
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.FormMenu.resources
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.ImportarTxtControl.resources
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.Preguntas.resources
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.Properties.Resources.resources
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.csproj.GenerateResource.cache
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.csproj.CoreCompileInputs.cache
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.exe
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.pdb
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\Newtonsoft.Json.dll
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Buffers.dll
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Memory.dll
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Numerics.Vectors.dll
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Text.Encodings.Web.dll
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Text.Json.dll
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.ValueTuple.dll
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\Newtonsoft.Json.xml
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Buffers.xml
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Memory.xml
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Numerics.Vectors.xml
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Text.Encodings.Web.xml
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Text.Json.xml
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.ValueTuple.xml
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.csproj.SuggestedBindingRedirects.cache
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.exe.config
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto.55C6FF09.Up2Date
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.AgregarContrasena.resources
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.TbValorNuevo.resources
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\Proyecto_Estructuras.exe.config
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\Proyecto_Estructuras.exe
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\Proyecto_Estructuras.pdb
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Buffers.dll
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Memory.dll
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Text.Json.dll
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.ValueTuple.dll
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Buffers.xml
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Memory.xml
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Text.Json.xml
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.ValueTuple.xml
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.csproj.AssemblyReference.cache
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.AgregarContrasena.resources
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.DatosAdicionales.resources
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.TbValorNuevo.resources
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.Form1.resources
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.Form2.resources
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.Form3.resources
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.FormMenu.resources
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.ImportarTxtControl.resources
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.Preguntas.resources
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.Properties.Resources.resources
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.csproj.GenerateResource.cache
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.csproj.CoreCompileInputs.cache
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.csproj.CopyComplete
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.exe
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.pdb
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\escal\Downloads\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\Proyecto_Estructuras.exe.config
+C:\Users\escal\Downloads\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\Proyecto_Estructuras.exe
+C:\Users\escal\Downloads\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\Proyecto_Estructuras.pdb
+C:\Users\escal\Downloads\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\escal\Downloads\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\escal\Downloads\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\Newtonsoft.Json.dll
+C:\Users\escal\Downloads\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Buffers.dll
+C:\Users\escal\Downloads\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Memory.dll
+C:\Users\escal\Downloads\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\escal\Downloads\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\escal\Downloads\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\escal\Downloads\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Text.Json.dll
+C:\Users\escal\Downloads\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\escal\Downloads\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.ValueTuple.dll
+C:\Users\escal\Downloads\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\escal\Downloads\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\escal\Downloads\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\Newtonsoft.Json.xml
+C:\Users\escal\Downloads\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Buffers.xml
+C:\Users\escal\Downloads\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Memory.xml
+C:\Users\escal\Downloads\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\escal\Downloads\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\escal\Downloads\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\escal\Downloads\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Text.Json.xml
+C:\Users\escal\Downloads\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\escal\Downloads\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.ValueTuple.xml
+C:\Users\escal\Downloads\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.csproj.AssemblyReference.cache
+C:\Users\escal\Downloads\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.AgregarContrasena.resources
+C:\Users\escal\Downloads\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.DatosAdicionales.resources
+C:\Users\escal\Downloads\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.TbValorNuevo.resources
+C:\Users\escal\Downloads\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.Form1.resources
+C:\Users\escal\Downloads\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.Form2.resources
+C:\Users\escal\Downloads\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.Form3.resources
+C:\Users\escal\Downloads\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.FormMenu.resources
+C:\Users\escal\Downloads\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.ImportarTxtControl.resources
+C:\Users\escal\Downloads\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.Preguntas.resources
+C:\Users\escal\Downloads\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.Properties.Resources.resources
+C:\Users\escal\Downloads\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.csproj.GenerateResource.cache
+C:\Users\escal\Downloads\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.csproj.CoreCompileInputs.cache
+C:\Users\escal\Downloads\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto.55C6FF09.Up2Date
+C:\Users\escal\Downloads\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.exe
+C:\Users\escal\Downloads\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.pdb
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\Proyecto_Estructuras.exe.config
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\Proyecto_Estructuras.exe
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\Proyecto_Estructuras.pdb
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\Newtonsoft.Json.dll
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Buffers.dll
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Memory.dll
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Numerics.Vectors.dll
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Text.Encodings.Web.dll
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Text.Json.dll
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.ValueTuple.dll
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\Newtonsoft.Json.xml
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Buffers.xml
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Memory.xml
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Numerics.Vectors.xml
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Text.Encodings.Web.xml
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Text.Json.xml
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.ValueTuple.xml
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.csproj.AssemblyReference.cache
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.AgregarContrasena.resources
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.DatosAdicionales.resources
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.TbValorNuevo.resources
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.Form1.resources
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.Form2.resources
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.Form3.resources
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.FormMenu.resources
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.ImportarTxtControl.resources
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.Preguntas.resources
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.Properties.Resources.resources
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.csproj.GenerateResource.cache
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.csproj.CoreCompileInputs.cache
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto.55C6FF09.Up2Date
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.exe
+D:\Universidad\Cuarto ciclo\Estructura de datos II\Lab estructura\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.pdb
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\Proyecto_Estructuras.exe.config
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\Proyecto_Estructuras.exe
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\Proyecto_Estructuras.pdb
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Buffers.dll
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Memory.dll
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Text.Json.dll
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.ValueTuple.dll
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Buffers.xml
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Memory.xml
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Text.Json.xml
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.ValueTuple.xml
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.csproj.AssemblyReference.cache
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.AgregarContrasena.resources
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.DatosAdicionales.resources
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.TbValorNuevo.resources
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.Form1.resources
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.Form2.resources
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.Form3.resources
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.FormMenu.resources
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.ImportarTxtControl.resources
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.Preguntas.resources
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.Properties.Resources.resources
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.csproj.GenerateResource.cache
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.csproj.CoreCompileInputs.cache
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.csproj.CopyComplete
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.exe
+C:\Users\aleja\OneDrive\Documentos\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.pdb
+C:\Users\escal\Downloads\Proyecto_Estructuras (2) (1)\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\Proyecto_Estructuras.exe.config
+C:\Users\escal\Downloads\Proyecto_Estructuras (2) (1)\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\Proyecto_Estructuras.exe
+C:\Users\escal\Downloads\Proyecto_Estructuras (2) (1)\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\Proyecto_Estructuras.pdb
+C:\Users\escal\Downloads\Proyecto_Estructuras (2) (1)\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\escal\Downloads\Proyecto_Estructuras (2) (1)\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\escal\Downloads\Proyecto_Estructuras (2) (1)\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\Newtonsoft.Json.dll
+C:\Users\escal\Downloads\Proyecto_Estructuras (2) (1)\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Buffers.dll
+C:\Users\escal\Downloads\Proyecto_Estructuras (2) (1)\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Memory.dll
+C:\Users\escal\Downloads\Proyecto_Estructuras (2) (1)\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\escal\Downloads\Proyecto_Estructuras (2) (1)\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\escal\Downloads\Proyecto_Estructuras (2) (1)\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\escal\Downloads\Proyecto_Estructuras (2) (1)\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Text.Json.dll
+C:\Users\escal\Downloads\Proyecto_Estructuras (2) (1)\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\escal\Downloads\Proyecto_Estructuras (2) (1)\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.ValueTuple.dll
+C:\Users\escal\Downloads\Proyecto_Estructuras (2) (1)\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\escal\Downloads\Proyecto_Estructuras (2) (1)\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\escal\Downloads\Proyecto_Estructuras (2) (1)\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\Newtonsoft.Json.xml
+C:\Users\escal\Downloads\Proyecto_Estructuras (2) (1)\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Buffers.xml
+C:\Users\escal\Downloads\Proyecto_Estructuras (2) (1)\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Memory.xml
+C:\Users\escal\Downloads\Proyecto_Estructuras (2) (1)\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\escal\Downloads\Proyecto_Estructuras (2) (1)\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\escal\Downloads\Proyecto_Estructuras (2) (1)\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\escal\Downloads\Proyecto_Estructuras (2) (1)\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Text.Json.xml
+C:\Users\escal\Downloads\Proyecto_Estructuras (2) (1)\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\escal\Downloads\Proyecto_Estructuras (2) (1)\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.ValueTuple.xml
+C:\Users\escal\Downloads\Proyecto_Estructuras (2) (1)\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.csproj.AssemblyReference.cache
+C:\Users\escal\Downloads\Proyecto_Estructuras (2) (1)\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.AgregarContrasena.resources
+C:\Users\escal\Downloads\Proyecto_Estructuras (2) (1)\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.TbValorNuevo.resources
+C:\Users\escal\Downloads\Proyecto_Estructuras (2) (1)\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.Form1.resources
+C:\Users\escal\Downloads\Proyecto_Estructuras (2) (1)\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.Form2.resources
+C:\Users\escal\Downloads\Proyecto_Estructuras (2) (1)\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.Form3.resources
+C:\Users\escal\Downloads\Proyecto_Estructuras (2) (1)\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.FormMenu.resources
+C:\Users\escal\Downloads\Proyecto_Estructuras (2) (1)\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.ImportarTxtControl.resources
+C:\Users\escal\Downloads\Proyecto_Estructuras (2) (1)\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.Properties.Resources.resources
+C:\Users\escal\Downloads\Proyecto_Estructuras (2) (1)\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.csproj.GenerateResource.cache
+C:\Users\escal\Downloads\Proyecto_Estructuras (2) (1)\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.csproj.CoreCompileInputs.cache
+C:\Users\escal\Downloads\Proyecto_Estructuras (2) (1)\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto.55C6FF09.Up2Date
+C:\Users\escal\Downloads\Proyecto_Estructuras (2) (1)\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.exe
+C:\Users\escal\Downloads\Proyecto_Estructuras (2) (1)\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.pdb
+C:\Users\escal\Downloads\Proyecto_Estructuras (2) (1)\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\Bunifu.Licensing.dll
+C:\Users\escal\Downloads\Proyecto_Estructuras (2) (1)\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\escal\Downloads\Proyecto_Estructuras (2) (1)\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\GradientColorPicker.dll
+C:\Users\escal\Downloads\Proyecto_Estructuras (2) (1)\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\MetroFramework.dll
+C:\Users\escal\Downloads\Proyecto_Estructuras (2) (1)\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\escal\Downloads\Proyecto_Estructuras (2) (1)\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\RestSharp.dll
+C:\Users\escal\Downloads\Proyecto_Estructuras (2) (1)\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.CodeDom.dll
+C:\Users\escal\Downloads\Proyecto_Estructuras (2) (1)\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\escal\Downloads\Proyecto_Estructuras (2) (1)\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\GradientColorPicker.xml
+C:\Users\escal\Downloads\Proyecto_Estructuras (2) (1)\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\RestSharp.xml
+C:\Users\escal\Downloads\Proyecto_Estructuras (2) (1)\Proyecto_Estructuras (1)\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.CodeDom.xml
+C:\Users\smora\Downloads\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\Proyecto_Estructuras.exe.config
+C:\Users\smora\Downloads\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\Proyecto_Estructuras.exe
+C:\Users\smora\Downloads\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\Proyecto_Estructuras.pdb
+C:\Users\smora\Downloads\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\smora\Downloads\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\Bunifu.Licensing.dll
+C:\Users\smora\Downloads\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\smora\Downloads\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\GradientColorPicker.dll
+C:\Users\smora\Downloads\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\MetroFramework.dll
+C:\Users\smora\Downloads\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\smora\Downloads\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\smora\Downloads\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\Newtonsoft.Json.dll
+C:\Users\smora\Downloads\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\RestSharp.dll
+C:\Users\smora\Downloads\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Buffers.dll
+C:\Users\smora\Downloads\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.CodeDom.dll
+C:\Users\smora\Downloads\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Memory.dll
+C:\Users\smora\Downloads\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\smora\Downloads\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\smora\Downloads\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\smora\Downloads\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Text.Json.dll
+C:\Users\smora\Downloads\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\smora\Downloads\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.ValueTuple.dll
+C:\Users\smora\Downloads\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\smora\Downloads\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\smora\Downloads\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\GradientColorPicker.xml
+C:\Users\smora\Downloads\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\smora\Downloads\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\Newtonsoft.Json.xml
+C:\Users\smora\Downloads\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\RestSharp.xml
+C:\Users\smora\Downloads\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Buffers.xml
+C:\Users\smora\Downloads\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.CodeDom.xml
+C:\Users\smora\Downloads\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Memory.xml
+C:\Users\smora\Downloads\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\smora\Downloads\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\smora\Downloads\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\smora\Downloads\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Text.Json.xml
+C:\Users\smora\Downloads\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\smora\Downloads\Proyecto_Estructuras\Proyecto_Estructuras\bin\Debug\System.ValueTuple.xml
+C:\Users\smora\Downloads\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.csproj.AssemblyReference.cache
+C:\Users\smora\Downloads\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.AgregarContrasena.resources
+C:\Users\smora\Downloads\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.TbValorNuevo.resources
+C:\Users\smora\Downloads\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.Form1.resources
+C:\Users\smora\Downloads\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.Form2.resources
+C:\Users\smora\Downloads\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.Form3.resources
+C:\Users\smora\Downloads\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.FormMenu.resources
+C:\Users\smora\Downloads\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.ImportarTxtControl.resources
+C:\Users\smora\Downloads\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.Properties.Resources.resources
+C:\Users\smora\Downloads\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.csproj.GenerateResource.cache
+C:\Users\smora\Downloads\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.csproj.CoreCompileInputs.cache
+C:\Users\smora\Downloads\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto.55C6FF09.Up2Date
+C:\Users\smora\Downloads\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.exe
+C:\Users\smora\Downloads\Proyecto_Estructuras\Proyecto_Estructuras\obj\Debug\Proyecto_Estructuras.pdb
