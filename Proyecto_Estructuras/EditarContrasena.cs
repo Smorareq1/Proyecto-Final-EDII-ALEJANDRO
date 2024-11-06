@@ -429,6 +429,7 @@ namespace Proyecto_Estructuras
 
             // Encriptar el contenido del archivo JSON
             byte[] encryptedBytes = DES.Encrypt(plainTextBytes, desKey);
+            
 
             // Ruta de destino para el archivo encriptado
             string documentos = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
